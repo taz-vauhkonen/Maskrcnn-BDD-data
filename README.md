@@ -46,11 +46,11 @@ To help with debugging and understanding the model, there are 3 notebooks
 
 ## 1. Anchor sorting and filtering
 Visualizes every step of the first stage Region Proposal Network and displays positive and negative anchors along with anchor box refinement.
-![](output-images/Anchors-aftertraining.png)
+![](output-images/anchors-aftertraining.png)
 
 ## 2. Bounding Box Refinement
 This is an example of final detection boxes (dotted lines) and the refinement applied to them (solid lines) in the second stage.
-![](output-images/Anchors-boxes.png)
+![](output-images/Anchors-Boxes.png)
 
 ## 3. Mask Generation
 Examples of generated masks. These then get scaled and placed on the image in the right location.
